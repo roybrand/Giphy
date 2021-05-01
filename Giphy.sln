@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giphy", "Giphy\Giphy.csproj", "{7079AB17-4EEB-454A-9ABD-4C7E669F93AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPartyLib", "ThirdPartyLib\ThirdPartyLib.csproj", "{33D25553-6AF2-4024-9C2E-D6DFBA597966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7079AB17-4EEB-454A-9ABD-4C7E669F93AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7079AB17-4EEB-454A-9ABD-4C7E669F93AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7079AB17-4EEB-454A-9ABD-4C7E669F93AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7079AB17-4EEB-454A-9ABD-4C7E669F93AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D25553-6AF2-4024-9C2E-D6DFBA597966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D25553-6AF2-4024-9C2E-D6DFBA597966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D25553-6AF2-4024-9C2E-D6DFBA597966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D25553-6AF2-4024-9C2E-D6DFBA597966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3C82DFE-94D6-4A04-9453-6DE15B6FF8FE}
+	EndGlobalSection
+EndGlobal
